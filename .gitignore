@@ -1,0 +1,5 @@
+*.pyc
+*.pdf
+
+abstracts/*
+.ipynb_checkpoints/*
